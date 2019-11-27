@@ -1,50 +1,52 @@
-[
-    {
-        "id": "1",
-        "type": "公開",
-        "time": "2019-11-26 9:30:00",
-        "title": "接見「美國聯邦眾議員佛羅瑞斯及瑞森紹爾訪問團」",
-        "location": "總統府",
-        "url": "https://www.president.gov.tw/NEWS/25061"
-    },
-    {
-        "id": "2",
-        "type": "競選",
-        "time": "2019-11-24 14:30:00",
-        "title": "蔡英文總統台中競選總部成立",
-        "location": "台中市競總前（南屯區文心南五路三段239號）",
-        "url": "https://iing.tw/posts/654"
-    },
-    {
-        "id": "3",
-        "type": "公開",
-        "time": "2019-11-26 9:30:00",
-        "title": "接見「美國聯邦眾議員佛羅瑞斯及瑞森紹爾訪問團」",
-        "location": "總統府",
-        "url": "https://www.president.gov.tw/NEWS/25061"
-    },
-    {
-        "id": "4",
-        "type": "競選",
-        "time": "2019-11-24 14:30:00",
-        "title": "蔡英文總統台中競選總部成立",
-        "location": "台中市競總前（南屯區文心南五路三段239號）",
-        "url": "https://iing.tw/posts/654"
-    },
-    {
-        "id": "5",
-        "type": "公開",
-        "time": "2019-11-26 9:30:00",
-        "title": "接見「美國聯邦眾議員佛羅瑞斯及瑞森紹爾訪問團」",
-        "location": "總統府",
-        "url": "https://www.president.gov.tw/NEWS/25061"
-    },
-    {
-        "id": "6",
-        "type": "競選",
-        "time": "2019-11-24 14:30:00",
-        "title": "蔡英文總統台中競選總部成立",
-        "location": "台中市競總前（南屯區文心南五路三段239號）",
-        "url": "https://iing.tw/posts/654"
-    }
-]
+{
+    "data": [
+        {
+            "id": "1",
+            "type": "公開",
+            "time": "2019-11-26 9:30:00",
+            "title": "接見「美國聯邦眾議員佛羅瑞斯及瑞森紹爾訪問團」",
+            "location": "總統府",
+            "url": "https://www.president.gov.tw/NEWS/25061"
+        },
+        {
+            "id": "2",
+            "type": "競選",
+            "time": "2019-11-24 14:30:00",
+            "title": "蔡英文總統台中競選總部成立",
+            "location": "台中市競總前（南屯區文心南五路三段239號）",
+            "url": "https://iing.tw/posts/654"
+        },
+        {
+            "id": "3",
+            "type": "公開",
+            "time": "2019-11-26 9:30:00",
+            "title": "接見「美國聯邦眾議員佛羅瑞斯及瑞森紹爾訪問團」",
+            "location": "總統府",
+            "url": "https://www.president.gov.tw/NEWS/25061"
+        },
+        {
+            "id": "4",
+            "type": "競選",
+            "time": "2019-11-24 14:30:00",
+            "title": "蔡英文總統台中競選總部成立",
+            "location": "台中市競總前（南屯區文心南五路三段239號）",
+            "url": "https://iing.tw/posts/654"
+        },
+        {
+            "id": "5",
+            "type": "公開",
+            "time": "2019-11-26 9:30:00",
+            "title": "接見「美國聯邦眾議員佛羅瑞斯及瑞森紹爾訪問團」",
+            "location": "總統府",
+            "url": "https://www.president.gov.tw/NEWS/25061"
+        },
+        {
+            "id": "6",
+            "type": "競選",
+            "time": "2019-11-24 14:30:00",
+            "title": "蔡英文總統台中競選總部成立",
+            "location": "台中市競總前（南屯區文心南五路三段239號）",
+            "url": "https://iing.tw/posts/654"
+        }
+    ]
+}

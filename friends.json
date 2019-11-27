@@ -1,14 +1,16 @@
-[
-    {
-        "id": "1",
-        "type": "Youtube",
-        "title": "博恩夜夜秀",
-        "url": "https://www.youtube.com/channel/UCDrswN-SqWh7Kii62h9aXGA"
-    },
-    {
-        "id": "2",
-        "type": "粉絲專頁",
-        "title": "小英之友會",
-        "url": "https://www.facebook.com/iing.tw/"
-    }
-]
+{
+    "data": [
+        {
+            "id": "1",
+            "type": "Youtube",
+            "title": "博恩夜夜秀",
+            "url": "https://www.youtube.com/channel/UCDrswN-SqWh7Kii62h9aXGA"
+        },
+        {
+            "id": "2",
+            "type": "粉絲專頁",
+            "title": "小英之友會",
+            "url": "https://www.facebook.com/iing.tw/"
+        }
+    ]
+}
